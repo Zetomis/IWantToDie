@@ -5,6 +5,9 @@ module.exports = {
             fontFamily: {
                 "nunito-sans": ["Nunito Sans", "sans-serif"],
             },
+            colors: {
+                "modal-bg": "rgba(0, 0, 0, 0.5)",
+            },
         },
     },
     plugins: [],
